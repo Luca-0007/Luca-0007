@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**Luca-0007/Luca-0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##   WHATS POPPIN GUYS 👋
 
 - 🔭 I’m currently working on my SWP Project
 - 🌱 I’m currently learning my first steps of GIT
