@@ -1,6 +1,6 @@
 ##   WHATS POPPIN GUYS 👋
 
-- 🔭 I’m currently working on my SWP Project
+- 🔭 I’m currently working on my SWP Project, Apr Mitarbeitsprojekt
 - 🌱 I’m currently learning my first steps of GIT
 - 👯 I’m looking to collaborate on my SWP Project
 - 🤔 I’m looking for help with nothing SO FAR
